@@ -1,0 +1,355 @@
+{
+  "basics": {
+    "name": "Vikas Singh",
+    "label": "Full Stack Developer",
+    "image": "/me.jpeg",
+    "email": "officialvissih@gmail.com",
+    "phone": "",
+    "url": "https://vissih.eu.org",
+    "summary": "Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "125001",
+      "city": "Hisar",
+      "countryCode": "IN",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "vissih",
+        "url": "https://linkedin.com/in/vissih"
+      },
+      {
+        "network": "X",
+        "username": "vissih",
+        "url": "https://x.com/vissih"
+      },
+      {
+        "network": "GitHub",
+        "username": "vissih",
+        "url": "https://github.com/vissih"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "GURU JAMBESHWAR UNIVERSITY",
+      "position": "Tech Support",
+      "location_type": "Hybrid",
+      "location": "Hisar, Haryana, India",
+      "url": "https://www.gjust.ac.in/",
+      "startDate": "Aug 2023",
+      "endDate": null,
+      "summary": "Developing and maintaining web applications using JavaScript, PHP, SQL, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "highlights": [
+        "Improved website performance by optimizing code"
+      ],
+      "responsibilities": [
+        "Collaborated with senior developers to design and implement web applications using PHP, SQL and modern JavaScript frameworks.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
+      ],
+      "achievements": [
+        "Developing and maintaining web applications using JavaScript, PHP, SQL HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+      ],
+      "skills": [
+        "Javascript",
+        "Tailwind",
+        "SQL",
+        "PHP"
+      ]
+    },
+    {
+      "name": "THE PRODUCT HOUSE",
+      "position": "Community Manager",
+      "location_type": "Remote",
+      "location": "Bengaluru, India",
+      "url": "https://www.theproduct.house/",
+      "startDate": "Mar 2022",
+      "endDate": "Apr 2023",
+      "summary": "I led community engagement and managed Discord moderation, successfully onboarding over 5,000 members. I collaborated with sponsors and facilitated both online and offline events, driving user engagement and brand visibility.",
+      "highlights": [
+        "Onboarded 5,000+ community members and maintained high engagement through regular events and content."
+      ],
+      "responsibilities": [
+        "Managed Discord moderation and community interactions.",
+        "Planned and executed events, workshops, and product launches.",
+        "Partnered with sponsors for collaborations and event sponsorship.",
+        "Developed content strategies to increase social media presence.",
+        "Engaged with users to maintain an active and positive community."
+      ],
+      "achievements": [
+        "Hosted and launched 9+ events, including both online and offline formats.",
+        "Achieved over 10 million impressions through strategic content creation and marketing efforts."
+      ],
+      "skills": [
+        "Event planning and coordination",
+        "Community engagement and moderation",
+        "Marketing strategy and content creation",
+        "Sponsor partnerships and collaboration",
+        "Social media management"
+      ]
+    },
+    {
+      "name": "WDM Agency",
+      "position": "Sales Executive",
+      "location_type": "Remote",
+      "location": "Kolkata, India",
+      "startDate": "Sept 2019",
+      "endDate": "Feb 2022",
+      "summary": "I provided top-notch customer service through phone, email, and chat, resolving issues and processing orders. I maintained strong product knowledge to give accurate advice and consistently met performance targets, ensuring high customer satisfaction.",
+      "highlights": [
+        "Consistently Met Or Exceeded Customer Service Performance Targets, Including Response Times And Customer Satisfaction Metrics."],
+      "responsibilities": [
+        "Delivered exceptional customer service across phone, email, and chat.",
+        "Resolved customer issues efficiently and processed orders accurately.",
+        "Achieved and surpassed customer service metrics and performance targets.",
+        "Maintained a strong product knowledge base to assist customers effectively."
+      ],
+      "achievements": [
+        "Delivered Excellent Customer Service Over The Phone, Email, and Chat, Addressing inquiries, Resolving Issues, And Processing Orders."
+      ],
+      "skills": [
+        "Customer service",
+        "CRM"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ICONNECT GJUST",
+      "position": "MEDIA VOLUNTEER",
+      "url": "https://www.linkedin.com/company/iconnect-gjust/",
+      "startDate": "Dec 2023",
+      "endDate": "Sept 2024",
+      "summary": "Helped organize workshops and media coverage.",
+      "highlights": [
+        "Media production & distribution across socials and local newspapers'"
+      ]
+    },    
+    {
+      "organization": "The Product Folks",
+      "position": "MARKETING VOLUNTEER",
+      "url": "https://www.linkedin.com/company/theproductfolks/",
+      "startDate": "Apr 2022",
+      "endDate": "Nov 2022",
+      "summary": "Marketing and Content Creation for social handles",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Guru Jambeshwar University of Science and Technology, Hisar, Haryana",
+      "url": "https://www.gjust.ac.in/",
+      "area": "Computer Science and Engineering / Artifical Intelligence & Machine Learning",
+      "studyType": "Bachelor of Technology",
+      "startDate": "Nov 2022",
+      "endDate": "Jun 2026",
+      "score": "yet to graduate"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Bangla",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain",
+        "DeFi"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Chess",
+        "Badminton"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI powered Linkedin Writer",
+      "isActive": true,
+      "description": "Craft Engaging Linkedin Posts in Seconds using AI",
+      "highlights": [
+        "Built with Next.js, Vercel AI SDK, Shadcn UI, Magic UI and LLMs from Groq",
+        "Includes multiple LLMs for post generation with 6 different Tones(professional, casual, funny, passionats, etc) based on user inputs and selections"
+      ],
+      "url": "https://linkedin-writer-ai.vercel.app/",
+      "github": "https://github.com/vissih/AI-Powered-Linkedin-Post-Writer"
+    },
+    {
+      "name": "Tickergro",
+      "isActive": true,
+      "description": "Open Source Library of Trading tools, indicators and bots",
+      "highlights": [
+        "under development"
+      ],
+      "url": "https://github.com/vissih/tickergro",
+      "github": "https://github.com/vissih/tickergro"
+    },
+    {
+      "name": "Portfolio",
+      "isActive": true,
+      "description": "A Three.js Portfolio (under development)",
+      "highlights": [
+        "Built using Three.js"
+      ],
+      "url": "https://golden-scone-4ab346.netlify.app/",
+      "github": "https://github.com/vissih/vissih.eu.org/"
+    },
+    {
+      "name": "LMS Web and Mobile APP",
+      "isActive": false,
+      "description": "LMS platform for both web and mobile (under development)",
+      "highlights": [
+        "Edtech platform with video streaming and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    }
+  ]
+}
